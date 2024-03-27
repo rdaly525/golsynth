@@ -1,0 +1,10 @@
+-Modify the API to implicitly include boundary
+-Add toroidal wrapping options. Or mobius/klein bottle wrapping.
+-Modify the alive/dead API to an 'up to K' number of valid counts.
+    -Maybe even modify to an uninterpreted function
+-Get the glider working
+    -Figure out how to abstract the glider delta
+-Prevent the synthesis of the same pattern. (all rotations. and other symmetries)
+-Try out 3D or higher dimensions
+    -Have 2 slices representing action on both sides
+-Maybe encode larger patterns and use LUTS
